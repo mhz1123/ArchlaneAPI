@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ysbmu*d79ex$rn)7qq&@_1dp*)s7+b^vz3sp)#=a@ga!w=@9u(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['http://192.168.1.9/', '*']
+ALLOWED_HOSTS = ['archlaneapi.herokuapp.com', 'localhost']
 
 
 # Application definition
