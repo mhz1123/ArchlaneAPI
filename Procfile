@@ -1,1 +1,1 @@
-web: gnuicorn ArchlaneAPI01.wsgi
+web: gunicorn ArchlaneAPI01.wsgi
